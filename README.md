@@ -1,20 +1,16 @@
 # LimeFX
 
-<table align="center">
-    <tr>
-        <td>
-            <img src="./assets/banner.jpg" width="80%" alt="LimeFX Banner"/>
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <img src="./assets/banner.jpg" width="80%" alt="LimeFX Banner"/>
+</p>
 
 ## Genel Bakış
 
 **LimeFX**, sesli sohbetler ve yayınlar için tasarlanmış bir **soundboard** uygulamasıdır.  
-Uygulama:
 
-- **Python** ile yazılmış bir frontend
-- **Rust** ile yazılmış bir backend
+Uygulama:
+- **Python** frontend
+- **Rust** backend
 
 kullanarak hızlı, stabil ve kullanıcı dostu bir deneyim sunmayı hedefler.
 
@@ -27,15 +23,19 @@ kullanarak hızlı, stabil ve kullanıcı dostu bir deneyim sunmayı hedefler.
 
 ## Ekran Görüntüleri
 
-| Soundboard | Ayarlar |
-|------------|---------|
-| ![Soundboard](./assets/pages/soundboard.png) | ![Ayarlar](./assets/pages/settings.png) |
+<p align="center">
+    <img src="./assets/pages/soundboard.png" width="45%" alt="Soundboard"/>
+    <img src="./assets/pages/settings.png" width="45%" alt="Ayarlar"/>
+</p>
 
 ## Grafik Bileşenleri
 
-İkonlar: [/assets](https://github.com/Kem0wow/LimeFX/tree/main/assets)
+- İkonlar:  
+  👉 https://github.com/Kem0wow/LimeFX/tree/main/assets
 
-Kaynaklar: [[1]](https://www.flaticon.com/) [[2]](https://www.freepik.com/)
+- Kaynaklar:  
+  - https://www.flaticon.com  
+  - https://www.freepik.com  
 
 ## Kurulum
 
