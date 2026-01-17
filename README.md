@@ -1,7 +1,7 @@
 # LimeFX
 
 <p align="center">
-    <img src="./assets/banner.jpg" width="80%" alt="LimeFX Banner"/>
+    <img src="./assets/logo/banner.jpg" width="80%" alt="LimeFX Banner"/>
 </p>
 
 ## Genel Bakış
@@ -45,4 +45,5 @@ kullanarak hızlı, stabil ve kullanıcı dostu bir deneyim sunmayı hedefler.
 git clone https://github.com/Kem0wow/LimeFX.git
 cd LimeFX
 pip install -r requirements.txt
-python ui/main.py
+python main.py
+```
