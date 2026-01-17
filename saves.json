@@ -2,23 +2,7 @@
   "audio": {
     "input_device": "Default Microphone",
     "output_device": "Default Speakers",
-    "volume": 43,
+    "volume": 50,
     "enabled": true
-  },
-  "soundboard": {
-    "buttons": [
-      {
-        "id": 1,
-        "name": "Airhorn",
-        "file": "sounds/airhorn.wav",
-        "hotkey": "F1"
-      },
-      {
-        "id": 2,
-        "name": "Bruh",
-        "file": "sounds/bruh.mp3",
-        "hotkey": "F2"
-      }
-    ]
   }
 }
